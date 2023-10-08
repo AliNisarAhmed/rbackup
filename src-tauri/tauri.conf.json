@@ -15,6 +15,9 @@
       "dialog": {
         "all": true
       },
+      "path": {
+        "all": true
+      },
       "all": false,
       "shell": {
         "all": false,
